@@ -2,7 +2,7 @@
 - 👀 I’m interested in neuroscience
 - 🌱 I’m currently learning git and pyhton
 - 💞️ I’m looking to collaborate on intriguing future projects
-- 📫 How to reach me: write me [mailto](mailto:tillhabersetzer@uol.de)
+- 📫 How to reach me: [mail to](mailto:tillhabersetzer@uol.de)
 
 <!---
 tillhabersetzer/tillhabersetzer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
